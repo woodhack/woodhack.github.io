@@ -102,3 +102,9 @@ a{
         padding-top: 2rem;
     }
 }
+
+/* Image rounded */
+.rounded-circle {
+  border-radius: 50% !important;
+}
+
